@@ -10,7 +10,7 @@ Mac OS
 ## 조원 
 강라윤 https://github.com/bornlver/team_5
 
-곽다은 https://github.com/kdudu123/Team_5/blob/main/README.md
+곽다은 https://github.com/kdudu123/Team_5
 
 ## 3. 기획의도
 방탈출 + 대탈출(희망연구소)를 베이스로 결합시켜 인기 컨텐츠를 제작하였음.
@@ -128,4 +128,5 @@ Time 23:59……
 - 게임 설명 스크립트 / 스크립트명: Change2
 
 ![image](https://user-images.githubusercontent.com/81173909/121816083-80156f00-ccb4-11eb-9aa9-160f88d0902f.png)
+
 
